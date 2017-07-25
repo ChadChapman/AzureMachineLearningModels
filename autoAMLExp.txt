@@ -1,0 +1,69 @@
+my autos AzureML experiment so far:
+
+autos.csv			makes.csv
+	|					|
+	|					|
+	|					|
+-----------------------------
+	join data module
+		|	
+		|
+		|
+-----------------------------
+	select columns in dataset module
+		|	
+		|
+		|
+-----------------------------
+	edit metadata module
+		|	
+		|
+		|
+-----------------------------
+	group categorical values module
+		|	
+		|
+		|
+-----------------------------
+	clean missing data module
+		|	
+		|
+		|
+-----------------------------
+	remove duplicate rows module
+		|	
+		|
+		|
+-----------------------------
+	apply math operations (ln of price column)
+		|	
+		|
+		|
+-----------------------------
+	edit metadata
+	|					|
+	|					|
+	|					|
+-----------------------------
+exec. python script		clip values
+							|
+							|
+							|
+-------------------------------
+						clip values
+							|
+							|
+							|
+-------------------------------
+						clip values
+							|
+							|
+							|
+-------------------------------
+						clean missing data
+							|
+							|
+							|
+-------------------------------
+						normalize data
+
