@@ -1,0 +1,39 @@
+# azure machine learning experiment to predict whether an adult has income of <= or > 50k/year
+# also published as a web service, hmu for url and api key
+
+	adult census income info binary file
+			|
+			|
+			|
+----------------------------------------------
+	select columns in data set
+			|
+			|
+			|
+----------------------------------------------
+	normalize data module
+			|
+			|
+			|
+----------------------------------------------
+	edit metadata
+			|
+			|
+			|
+----------------------------------------------
+	split data					2-class logistic regression model		
+		|		|					|
+		|		|					|
+		|		|					|
+		|	----------------------------------------------------
+		|				train the model
+		|					|
+		|					|
+		|					|
+-------------------------------------------------	
+	score the model
+			|
+			|
+			|
+----------------------------------------------
+	evaluate the model
