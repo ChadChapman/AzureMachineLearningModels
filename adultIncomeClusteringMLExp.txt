@@ -1,0 +1,39 @@
+# outline of experiment for using k-means clustering for adult incomes from census data
+
+	adult census income dataset
+		|
+		|
+		|
+-------------------------------------
+	select columns in dataset
+		|
+		|
+		|
+-------------------------------------
+	normalize data
+		|
+		|
+		|
+-------------------------------------
+	edit metadata
+		|
+		|
+		|
+-------------------------------------
+	k-means clustering module			convert to indicator values module
+		|										|
+		|										|
+		|										|
+-----------------------------------------------------------------------------
+								train clustering model
+									|
+									|
+									|
+-----------------------------------------------------------------
+	select columns in dataset
+		|
+		|
+		|
+-------------------------------------
+
+
